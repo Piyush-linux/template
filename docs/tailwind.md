@@ -1,3 +1,9 @@
+---
+layout: doc
+title: Tailwind CSS
+description: Snippet
+---
+
 ## UI
 - https://treact.owaiskhan.me/
 - https://www.tailwindtoolbox.com/templates/landing-page
