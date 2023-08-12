@@ -5,6 +5,7 @@ yarn docs:build # navigate into the build output directory
 cd docs/.vitepress/dist # if you are deploying to a custom domain
 
 # echo 'www.example.com' > CNAME git init
+git init 
 git add -A
 git commit -m 'deploy' # if you are deploying to https://<USERNAME>.github.io
 
@@ -13,4 +14,5 @@ git commit -m 'deploy' # if you are deploying to https://<USERNAME>.github.io
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 
 git push -f git@github.com:Piyush-linux/template.git master:gh-pages 
-cd -
+cd ..
+rm -rf dist 
