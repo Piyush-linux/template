@@ -7,6 +7,10 @@ description: Roadmap
 
 ## Roadmap
 
+
+### DNS
 - [D N S](https://howdns.works/)
+- tools 
+	+ [dig](https://linuxhandbook.com/dig-command/)
 
 

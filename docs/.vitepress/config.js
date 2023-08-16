@@ -27,23 +27,14 @@ export default {
       {
         text: 'Web',
         items: [
+          { text: 'CSS', link: '/css/' },
           { text: 'Tailwind', link: '/tailwind' },
           { text: 'Vue', link: '/item-2' },
           { text: 'React', link: '/item-3' }
         ]
       }
     ],
-    sidebar: [
-      {
-        // link:'/networking',
-        text: 'Hacking',
-        items: [
-          { text: 'Intro', link: '/introduction' },
-          { text: 'Linux', link: '/getting-started' },
-          { text: 'Networking', link: '/networking/' },
-        ]
-      }
-    ],
+    
     // Social Media
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' },

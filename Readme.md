@@ -34,4 +34,18 @@ description:
 ---
 ```
 
+### Sidebar
+```js
+sidebar: [
+      {
+        // link:'/networking',
+        text: 'Hacking',
+        items: [
+          { text: 'Intro', link: '/introduction' },
+          { text: 'Linux', link: '/getting-started' },
+          { text: 'Networking', link: '/networking/' },
+        ]
+      }
+    ],
+```
 
