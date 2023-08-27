@@ -3,11 +3,11 @@ layout: home
 title: Template
 editLink: false
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Lorem ipsum...
+  name: ONE PIECE
+  text: the hidden resources from the world !
+  tagline: Journey To Nowhere :)
   image:
-    src: /logo.png
+    src: /DJ.png
     alt: VitePress
   actions:
     - theme: brand
@@ -18,16 +18,13 @@ hero:
       link: https://github.com/vuejs/vitepress
 features:
   - icon: 🛠️
-    title: Simple and minimal, always
+    title: P J 
     details: Lorem ipsum...
   - icon: 😎
-      # src: /cool-feature-icon.svg
-    title: Another cool feature
+    title: U I
     details: Lorem ipsum...
   - icon: 👻
-      # dark: /dark-feature-icon.svg
-      # light: /light-feature-icon.svg
-    title: Another cool feature
+    title: A I
     details: Lorem ipsum...
 ---
 

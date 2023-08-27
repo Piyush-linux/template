@@ -1,9 +1,17 @@
 ---
 title: CSS Template
+description: CSS Tools
 editLink: false
 ---
 
 # CSS
+
+## rsources
+- resourceboy.com
+
+## Practise
+- [CSS Battle](cssbattle.dev)
+- 
 
 ggl: template: tailwind , astro , vue , react , free-css(html) , 
 
@@ -26,3 +34,30 @@ ggl: template: tailwind , astro , vue , react , free-css(html) ,
 - https://www.builtatlightspeed.com/?themes[sortBy]=themes_price_desc&themes[refinementList][distribution][0]=free&themes[page]=2
 - https://folioz.framer.website/#services 
 - https://github.com/mhaecal/skilline-landing-pagei
+
+## ICON
+- All : Iconify
+- animated : lottieflow , useanimation.com
+- normal : iconer , lordicon.com
+
+## Illustration
+- ill : pixcap.com
+- deignstripe.com
+- storyset.com
+
+## Animation
+- animation : transition.css , animate.style , magic.css , 
+
+
+## Layout
+- [Grid](https://cssgrid-generator.netlify.app/)
+
+## Carosual
+- [splide](https://splidejs.com/guides/getting-started/) : carousal 
+- swipper.js
+- Glassmorphism : https://hype4.academy/
+- neumorphism : https://neumorphism.io/#e0e0e0
+- blob : bgjar.com , 9elements
+- wave : getwaves
+- load : 100l5.io , uiball.com , 
+- 
