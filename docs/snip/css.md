@@ -7,12 +7,14 @@
 ## Image
 
 
-## Imag Tag
+### Imag Tag
 
 ```html
 <img src="" alt="" loading="lazy">
 ```
-## Responsive Image Tag
+
+
+### Responsive Image Tag
 - https://web.dev/learn/design/picture-element/
 ```html
 <picture>
@@ -33,6 +35,8 @@ img{
 
 - Compress Images : tinypng
 
+
+### Gradient
 ```scss
 background: url(images/bg.jpg) no-repeat center center fixed; 
 -webkit-background-size: cover;
@@ -41,6 +45,6 @@ background: url(images/bg.jpg) no-repeat center center fixed;
 background-size: cover;
 
 /* Gradient */
-  background-image: url("IMAGE_URL"), linear-gradient(#eb01a5, #d13531); /* W3C */
+  background-image: linear-gradient(#eb01a5, #d13531), url("IMAGE_URL"); /* W3C */
 ```
 
