@@ -6,8 +6,28 @@ editLink: false
 
 # CSS
 
+
+## Assets
+- https://github.com/markodenic/web-development-resources
+- https://github.com/gztchan/awesome-design
+
+## UI Design
+- Pinterest
+- https://www.toools.design/ui-web-design-inspiration-websites
+- https://uiverse.io/
+- https://landings.dev/
+- https://uigarage.net/
+- https://www.landingfolio.com/
+- https://dribbble.com/search/business
+- https://tympanus.net/codrops/
+- https://www.behance.net/
+- https://onepagelove.com/
+- https://land-book.com/gallery
+- 
+
 ## rsources
 - resourceboy.com
+- input : https://uiverse.io/
 
 ## Practise
 - [CSS Battle](cssbattle.dev)
