@@ -27,7 +27,7 @@ export default {
       {
         text: 'Web',
         items: [
-          { text: 'CSS', link: '/css/' },
+          { text: 'UI', link: '/ui/' },
           { text: 'Tailwind', link: '/tailwind' },
           { text: 'Vue', link: '/item-2' },
           { text: 'React', link: '/item-3' }
