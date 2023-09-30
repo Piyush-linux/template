@@ -81,3 +81,24 @@ head Elements: https://gethead.info/
 Public APIs: https://public-apis.xyz
 
 Best time to post on reddit: https://dashboard.laterforreddit.com/analysis/
+
+- https://github.com/Track3/hermit
+- https://devshakti.tech/
+- https://github.com/vuepress-reco/vuepress-theme-reco#preview
+- https://huangyz.name/moving/
+- https://redefine.ohevan.com/
+- https://github.com/EvanNotFound/hexo-theme-redefine
+- https://youssefraafatnasry.github.io/portfolYOU/blog/learn-react-js
+- https://github.com/morethanmin/morethan-log
+- - https://www.tailwindtoolbox.com/starter-templates
+- https://madewithvuejs.com/websites
+- https://cruip.com/free-templates/
+- 
+- Online Buy : Evato , GUM , Patreon
+  - https://www.buymeacoffee.com/bedimcode/extras
+  - 
+  - https://www.youtube.com/@GreatStackDev
+  - https://www.youtube.com/@javascriptmastery
+  - https://www.youtube.com/@Bedimcode
+  - https://www.youtube.com/@SyntaxStudioTv
+  - https://www.youtube.com/@CodingNepal

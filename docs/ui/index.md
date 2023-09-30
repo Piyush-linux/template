@@ -9,6 +9,7 @@ editLink: false
 ## HTML Templates
 - https://html5up.net/
 - https://templated.co/
+- templatesjungle.com
 
 ## Web Design Templates
 - Pinterest
@@ -18,6 +19,7 @@ editLink: false
 - https://astro.build/themes/
 - https://themejam.gatsbyjs.org/showcase/
 - https://www.free-css.com
+- 
 - https://elements.envato.com/web-templates
 - https://getpublii.com/showcase/
 - https://fresh.deno.dev/showcase
@@ -33,7 +35,10 @@ editLink: false
 - https://www.behance.net/
 - https://onepagelove.com/
 - https://land-book.com/gallery
-- 
+- https://pixelarity.com/
+- https://smarteyeapps.com/free-website-templates?page=2
+- https://www.themevault.net/
+- https://jekyll-themes.com/free
 
 ## Illustration
 
