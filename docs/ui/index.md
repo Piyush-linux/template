@@ -7,23 +7,41 @@ editLink: false
 # UI
 
 ## HTML Templates
-- https://html5up.net/
+- https://htmltemplates.co/
+- https://themewagon.com/theme-price/free/
 - https://templated.co/
+- https://templatemo.com/
+- https://www.zerotheme.com/
+- https://www.free-css.com
+- https://freehtml5.co/
+- https://themesfor.app/all-themes
+- https://bootstraptaste.com/
+- https://bootstrapmade.com/
+- Dashboard : https://keenthemes.com/
+- https://htmlrev.com/
+- https://w3layouts.com/
+- https://www.tooplate.com/
+- https://uideck.com/
+- https://www.w3schools.com/w3css/w3css_templates.asp
+- 
+- https://styleshout.com/free-templates/
+- https://www.html5xcss3.com/
+- OneTime : https://cruip.com/free-templates/
 - templatesjungle.com
+- https://astro.build/themes/
+- https://themes.gohugo.io/
+- https://jamstackthemes.dev/
+- https://jekyllthemes.io/free
+- https://hexo.io/themes/
+- https://html5up.net/
 
 ## Web Design Templates
 - Pinterest
-- https://jamstackthemes.dev/
-- https://jekyllthemes.io/free
-- https://themes.gohugo.io/
-- https://astro.build/themes/
 - https://themejam.gatsbyjs.org/showcase/
-- https://www.free-css.com
 - 
 - https://elements.envato.com/web-templates
 - https://getpublii.com/showcase/
 - https://fresh.deno.dev/showcase
-- https://hexo.io/themes/
 - https://statichunt.com/jekyll-themes
 - https://www.toools.design/ui-web-design-inspiration-websites
 - https://uiverse.io/
@@ -87,6 +105,7 @@ editLink: false
 
 
 ## rsources
+- https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
 - resourceboy.com
 - input : https://uiverse.io/
 
