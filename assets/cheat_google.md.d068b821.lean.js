@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,R as i}from"./chunks/framework.9a6a0cb4.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cheat/google.md","filePath":"cheat/google.md"}'),s={name:"cheat/google.md"},n=i("",2),a=[n];function l(r,c,h,u,g,d){return e(),o("div",null,a)}const w=t(s,[["render",l]]);export{p as __pageData,w as default};
